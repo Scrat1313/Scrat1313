@@ -105,7 +105,7 @@ Comprehensive automation scripts for system monitoring, log rotation, server con
 
 <div align="center">
   
-### ✨ *"Code with purpose. Build with intention. Learn without end."* ✨
+### ✨ *"Créateur discret, Rêveur déterminé"* ✨
 
 **Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.**
 
